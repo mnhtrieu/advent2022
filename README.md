@@ -1,5 +1,5 @@
-# Advent of Code 2021
-This repository is dedicated to the AoC 2021 puzzles. Every puzzle will be written in C++. 
+# Advent of Code 2022
+This repository is dedicated to the AoC 2022 puzzles. Every puzzle will be written in C++. 
 
 ## What is Advent of Code?
 Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like.
