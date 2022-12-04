@@ -13,3 +13,4 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 * [Day 01](https://github.com/mnhtrieu/advent2022/tree/master/01_day) - Calorie Counting | PART 1: `72240` | PART 2: `210957`
 * [Day 02](https://github.com/mnhtrieu/advent2022/tree/master/02_day) - Rock Paper Scissors | PART 1: `10718` | PART 2: `14652`
 * [Day 03](https://github.com/mnhtrieu/advent2022/tree/master/03_day) - Rucksack Reorganization | PART 1: `7795` | PART 2: `2703`
+* [Day 04](https://github.com/mnhtrieu/advent2022/tree/master/04_day) - Camp Cleanup | PART 1: `644` | PART 2: `926`
