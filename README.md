@@ -18,3 +18,4 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 * [Day 06](https://github.com/mnhtrieu/advent2022/tree/master/06_day) - Tuning Trouble | PART 1: `1929` | PART 2: `3298`
 * [Day 07](https://github.com/mnhtrieu/advent2022/tree/master/07_day) - No Space Left On Device | PART 1: `1501149` | PART 2: `10096985`
 * [Day 08](https://github.com/mnhtrieu/advent2022/tree/master/08_day) - Treetop Tree House | PART 1: `1796` | PART 2: `288120`
+* [Day 09](https://github.com/mnhtrieu/advent2022/tree/master/09_day) - Rope Bridge | PART 1: `6339` | PART 2: `2541`
